@@ -113,7 +113,7 @@ class MainViewController: UIViewController, UIImagePickerControllerDelegate, UIN
 
                         attributedString.draw(with:
                             CGRect(x: 20,
-                                   y: 400,
+                                   y: 700,
                                    width: realImage.size.width,
                                    height: 300),
                                    options: .usesFontLeading,
